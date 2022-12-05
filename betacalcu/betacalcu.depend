@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1668997565 source:d:\umn\semester 1\programming fundamentals\profun calculator\betacalcu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+
