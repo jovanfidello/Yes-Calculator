@@ -2400,7 +2400,7 @@ int main()
                                     reset();
                                     printf(" dan ");
                                     cyan();
-                                    printf("%lld", xmedian[nmedian / 2]);
+                                    printf("%lld\n", xmedian[nmedian / 2]);
                                     reset();
                                     printf("\nSehingga nilai mediannya  ");
                                     cyan();
