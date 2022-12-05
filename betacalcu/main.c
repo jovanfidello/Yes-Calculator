@@ -2391,6 +2391,7 @@ int main()
                                 for (imedian=0;imedian<nmedian;imedian++) {
                                     printf("%lld ", xmedian[imedian]);
                                 }
+				printf("\n=========================================================================\n");
                                 if (nmedian % 2 == 0) {
                                     nilaimedian = xmedian[(nmedian / 2) - 1] + xmedian[nmedian / 2];
                                     hasilmedian = nilaimedian / 2;
@@ -2400,7 +2401,7 @@ int main()
                                     reset();
                                     printf(" dan ");
                                     cyan();
-                                    printf("%lld\n", xmedian[nmedian / 2]);
+                                    printf("%lld", xmedian[nmedian / 2]);
                                     reset();
                                     printf("\nSehingga nilai mediannya  ");
                                     cyan();
