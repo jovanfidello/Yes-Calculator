@@ -4666,7 +4666,7 @@ int main()
                                 long long int nprima;
                                 do {
                                     home_prima();
-                                    printf("Masukan bilangan n yang ingin di cek: ");;scanf("%lld", &nprima);
+                                    printf("Masukan bilangan n yang ingin di cek: ");scanf("%lld", &nprima);
                                     printf("=========================================================================\n");
                                     bool isPrime = true;
                                     if (nprima == 0 || nprima == 1) {
