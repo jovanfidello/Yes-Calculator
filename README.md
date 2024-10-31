@@ -1,4 +1,4 @@
 # Yes-Calculator
-Programming Fundamentals Assignment
+Programming Fundamentals Final Project Assignment
 
 This is assignment 
